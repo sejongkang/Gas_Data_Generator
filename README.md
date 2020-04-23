@@ -1,7 +1,7 @@
 # Gas_Data_Generator
 Gas Data Generator to DB
 
-최대 5대의 가스 취득기에서 가스 종류, 농도 설정하여 DB에 데이터 
+최대 5대의 가스 취득기에서 가스 종류, 농도 설정하여 DB에 데이터 생성
 
 ### 화면
 
